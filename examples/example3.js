@@ -1,7 +1,7 @@
 var obj = {
   name: 'tom',
   getName: function(){
-    return null
+    return 'blah'
   }
 }
 assert(obj != null)
